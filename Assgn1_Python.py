@@ -30,10 +30,7 @@ while 1/r > 0.001:
     a = a + 1/r
     r = r+1
 print("The sum of harmonic progression of natural numbers is",a,"(till 1001 terms).")
-    
 
-
-# In[ ]:
 
 
 
