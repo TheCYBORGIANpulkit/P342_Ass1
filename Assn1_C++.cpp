@@ -41,7 +41,7 @@ float f3(){
         //cout<< r <<endl;
     }
     //cout << r << endl;
-    cout<< "The sum of harmonic progression of natural numbers is"<< a << "(till 1001 terms)."<< endl;
+    cout<< "The sum of harmonic progression of natural numbers is "<< a << "(till 1001 terms)."<< endl;
     return a;
 }
 
